@@ -1,7 +1,6 @@
-# cs131-final-project
-MultiSport: Real-time multi-player tracking and bird’s eye analytics for sports footage
+# MultiSport: Real-time multi-player tracking and bird’s eye analytics for sports footage
 
-Project submitted to the Stanford CS131 Final Showcase (Winter 2025 @ Stanford University)
+Project for the Stanford CS131 (Computer Vision: Foundations and Applications) Final (Winter 2025)
 
 ## Inspiration
 Sports teams are increasingly turning to data analytics to gain a competitive edge. But tracking player movement remains a bottleneck: existing tools are expensive and often require manual annotation. We wanted to democratize sports analytics with a fast, open-source, deep learning tool that can analyze game footage from a single camera and output detailed player tracking insights automatically.
