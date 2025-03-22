@@ -2,6 +2,22 @@
 
 Project for the Stanford CS131 (Computer Vision: Foundations and Applications) Final (Winter 2025)
 
+## Installation
+```
+git clone https://github.com/tonywangs/cs131-final-project.git
+cd cs131-final-project
+
+# Create a virtual environment (optional, but recommended)
+python -m venv multiathlete-env  
+source multiathlete-env/bin/activate  # On Windows use: multiathlete-env\Scripts\activate  
+
+# Install required Python packages
+pip install -r requirements.txt  
+
+# Start the application locally
+streamlit run app.py
+```
+
 ## Inspiration
 Sports teams are increasingly turning to data analytics to gain a competitive edge. But tracking player movement remains a bottleneck: existing tools are expensive and often require manual annotation. We wanted to democratize sports analytics with a fast, open-source, deep learning tool that can analyze game footage from a single camera and output detailed player tracking insights automatically.
 
