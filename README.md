@@ -1,6 +1,7 @@
 # MultiSport: Real-time multi-player tracking and bird’s eye analytics for sports footage
 
 Project for the Stanford CS131 (Computer Vision: Foundations and Applications) Final (Winter 2025)
+Demo: [https://youtu.be/APf4NyKwL0E](https://youtu.be/APf4NyKwL0E)
 
 ## Installation
 ```
