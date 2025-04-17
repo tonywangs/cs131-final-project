@@ -3,6 +3,7 @@
 Project for the Stanford CS131 (Computer Vision: Foundations and Applications) Final (Winter 2025)
 
 Demo: [https://youtu.be/APf4NyKwL0E](https://youtu.be/APf4NyKwL0E)
+Paper: [https://drive.google.com/file/d/17Bml1LAhEo84CU5sLqLwOiEu25uD9BzU/view?usp=sharing](https://drive.google.com/file/d/17Bml1LAhEo84CU5sLqLwOiEu25uD9BzU/view?usp=sharing)
 
 ## Installation
 ```
